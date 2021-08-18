@@ -1,0 +1,2189 @@
+{
+  "images": [
+    {
+      "type": "image",
+      "key": "kt_as_bg",
+      "url": "assets/images/StageMapImg/Kyoto/kt_as_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_as_thumb",
+      "url": "assets/images/StageMapImg/Kyoto/kt_as_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_gk_bg",
+      "url": "assets/images/StageMapImg/Kyoto/kt_gk_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_gk_thumb",
+      "url": "assets/images/StageMapImg/Kyoto/kt_gk_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_hm_bg",
+      "url": "assets/images/StageMapImg/Kyoto/kt_hm_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_hm_thumb",
+      "url": "assets/images/StageMapImg/Kyoto/kt_hm_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_kk_bg",
+      "url": "assets/images/StageMapImg/Kyoto/kt_kk_bg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_kk_thumb",
+      "url": "assets/images/StageMapImg/Kyoto/kt_kk_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_km_bg",
+      "url": "assets/images/StageMapImg/Kyoto/kt_km_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_av_bg",
+      "url": "assets/images/StageMapImg/Okinawa/ok_av_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_av_thumb",
+      "url": "assets/images/StageMapImg/Okinawa/ok_av_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_kb_bg",
+      "url": "assets/images/StageMapImg/Okinawa/ok_kb_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_kb_thumb",
+      "url": "assets/images/StageMapImg/Okinawa/ok_kb_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_mj_bg",
+      "url": "assets/images/StageMapImg/Okinawa/ok_mj_bg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_mj_thumb",
+      "url": "assets/images/StageMapImg/Okinawa/ok_mj_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_pp_bg",
+      "url": "assets/images/StageMapImg/Okinawa/ok_pp_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_pp_thumb",
+      "url": "assets/images/StageMapImg/Okinawa/ok_pp_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_sc_bg",
+      "url": "assets/images/StageMapImg/Okinawa/ok_sc_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_sc_thumb",
+      "url": "assets/images/StageMapImg/Okinawa/ok_sc_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "okinawaMap",
+      "url": "assets/images/StageMapImg/Okinawa/okinawaMap.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_av_map",
+      "url": "assets/images/StageMapImg/Okinawa/pixelMap/ok_av_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_kb_map",
+      "url": "assets/images/StageMapImg/Okinawa/pixelMap/ok_kb_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_mj_map",
+      "url": "assets/images/StageMapImg/Okinawa/pixelMap/ok_mj_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_pp_map",
+      "url": "assets/images/StageMapImg/Okinawa/pixelMap/ok_pp_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "hokkaidoMap",
+      "url": "assets/images/StageMapImg/Sapporo/hokkaidoMap.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_ch_bg",
+      "url": "assets/images/StageMapImg/Sapporo/sp_ch_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_ch_thumb",
+      "url": "assets/images/StageMapImg/Sapporo/sp_ch_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_ct_bg",
+      "url": "assets/images/StageMapImg/Sapporo/sp_ct_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_ct_thumb",
+      "url": "assets/images/StageMapImg/Sapporo/sp_ct_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_op_bg",
+      "url": "assets/images/StageMapImg/Sapporo/sp_op_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_op_thumb",
+      "url": "assets/images/StageMapImg/Sapporo/sp_op_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_ak_map",
+      "url": "assets/images/StageMapImg/ToKyo/pixelMap/tk_ak_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_td_map",
+      "url": "assets/images/StageMapImg/ToKyo/pixelMap/tk_td_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_tt_map",
+      "url": "assets/images/StageMapImg/ToKyo/pixelMap/tk_tt_map.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_ak_bg",
+      "url": "assets/images/StageMapImg/ToKyo/tk_ak_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_ak_thumb",
+      "url": "assets/images/StageMapImg/ToKyo/tk_ak_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_od_bg",
+      "url": "assets/images/StageMapImg/ToKyo/tk_od_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_od_thumb",
+      "url": "assets/images/StageMapImg/ToKyo/tk_od_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_rb_bg",
+      "url": "assets/images/StageMapImg/ToKyo/tk_rb_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_rb_thumb",
+      "url": "assets/images/StageMapImg/ToKyo/tk_rb_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_td_bg",
+      "url": "assets/images/StageMapImg/ToKyo/tk_td_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_td_thumb",
+      "url": "assets/images/StageMapImg/ToKyo/tk_td_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_tt_bg",
+      "url": "assets/images/StageMapImg/ToKyo/tk_tt_bg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_tt_thumb",
+      "url": "assets/images/StageMapImg/ToKyo/tk_tt_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tokyoMap(color)tree",
+      "url": "assets/images/StageMapImg/ToKyo/tokyoMap(color)tree.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "japanMap(color)",
+      "url": "assets/images/StageMapImg/japanMap(color).png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_hc_bg",
+      "url": "assets/images/StageMapImg/kobe/kb_hc_bg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_hc_thumb",
+      "url": "assets/images/StageMapImg/kobe/kb_hc_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_hs_bg",
+      "url": "assets/images/StageMapImg/kobe/kb_hs_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_hs_thum",
+      "url": "assets/images/StageMapImg/kobe/kb_hs_thum.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_kn_bg",
+      "url": "assets/images/StageMapImg/kobe/kb_kn_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_kn_thumb",
+      "url": "assets/images/StageMapImg/kobe/kb_kn_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_pt_bg",
+      "url": "assets/images/StageMapImg/kobe/kb_pt_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_pt_thumb",
+      "url": "assets/images/StageMapImg/kobe/kb_pt_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_rs_bg",
+      "url": "assets/images/StageMapImg/kobe/kb_rs_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_rs_thumb",
+      "url": "assets/images/StageMapImg/kobe/kb_rs_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "button",
+      "url": "assets/images/UIImages/button.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "146x155 button",
+      "url": "assets/images/UIImages/buttons/146x155 button.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_exit",
+      "url": "assets/images/UIImages/buttons/btn_exit.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_next",
+      "url": "assets/images/UIImages/buttons/btn_next.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_nope",
+      "url": "assets/images/UIImages/buttons/btn_nope.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_play",
+      "url": "assets/images/UIImages/buttons/btn_play.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_save",
+      "url": "assets/images/UIImages/buttons/btn_save.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_square",
+      "url": "assets/images/UIImages/buttons/btn_square.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_start",
+      "url": "assets/images/UIImages/buttons/btn_start.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_stop",
+      "url": "assets/images/UIImages/buttons/btn_stop.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_store",
+      "url": "assets/images/UIImages/buttons/btn_store.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_yes",
+      "url": "assets/images/UIImages/buttons/btn_yes.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "plbutton",
+      "url": "assets/images/UIImages/buttons/plbutton.png",
+      "frameWidth": 500,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "scriptAbutton",
+      "url": "assets/images/UIImages/buttons/scriptAbutton.png",
+      "frameWidth": 450,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "scriptBbutton",
+      "url": "assets/images/UIImages/buttons/scriptBbutton.png",
+      "frameWidth": 450,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "ssbutton",
+      "url": "assets/images/UIImages/buttons/ssbutton.png",
+      "frameWidth": 400,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "store_btn_no",
+      "url": "assets/images/UIImages/buttons/store_btn_no.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "store_btn_yes",
+      "url": "assets/images/UIImages/buttons/store_btn_yes.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "store_exit",
+      "url": "assets/images/UIImages/buttons/store_exit.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "store_next",
+      "url": "assets/images/UIImages/buttons/store_next.png",
+      "frameWidth": 146,
+      "frameHeight": 150,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "Btextbox2",
+      "url": "assets/images/UIImages/messageBoxes/Btextbox2.png",
+      "frameWidth": 600,
+      "frameHeight": 150,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "converbox",
+      "url": "assets/images/UIImages/messageBoxes/converbox.png",
+      "frameWidth": 100,
+      "frameHeight": 35,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "loadingbar",
+      "url": "assets/images/UIImages/buttons/loadingbar.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "askpopup",
+      "url": "assets/images/UIImages/messageBoxes/askpopup.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "instruction",
+      "url": "assets/images/UIImages/messageBoxes/instruction.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "msg",
+      "url": "assets/images/UIImages/messageBoxes/msg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "popup",
+      "url": "assets/images/UIImages/messageBoxes/popup.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "smallbox",
+      "url": "assets/images/UIImages/messageBoxes/smallbox.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_av_click",
+      "url": "assets/images/UIImages/pinIcons/ok_av_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_kb_click",
+      "url": "assets/images/UIImages/pinIcons/ok_kb_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "textbox",
+      "url": "assets/images/UIImages/messageBoxes/textbox.png",
+      "frameWidth": 300,
+      "frameHeight": 100,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "ok_mj_click",
+      "url": "assets/images/UIImages/pinIcons/ok_mj_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_pp_click",
+      "url": "assets/images/UIImages/pinIcons/ok_pp_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ok_sc_click",
+      "url": "assets/images/UIImages/pinIcons/ok_sc_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_ak_click",
+      "url": "assets/images/UIImages/pinIcons/tk_ak_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_od_click",
+      "url": "assets/images/UIImages/pinIcons/tk_od_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_rb_click",
+      "url": "assets/images/UIImages/pinIcons/tk_rb_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_td_click",
+      "url": "assets/images/UIImages/pinIcons/tk_td_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tk_tt_click",
+      "url": "assets/images/UIImages/pinIcons/tk_tt_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "00_TITLElogo",
+      "url": "assets/images/cutScences/00_TITLElogo.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "01_op_foreignspeak",
+      "url": "assets/images/cutScences/01_op_foreignspeak.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "02_op_scared",
+      "url": "assets/images/cutScences/02_op_scared.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "03_op_runBoy",
+      "url": "assets/images/cutScences/03_op_runBoy.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "04_op_sleep",
+      "url": "assets/images/cutScences/04_op_sleep.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "05_op_dokann",
+      "url": "assets/images/cutScences/05_op_dokann.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "06_ruins",
+      "url": "assets/images/cutScences/06_ruins.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "07_letsGogo",
+      "url": "assets/images/cutScences/07_letsGogo.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "08_epp_wakeup",
+      "url": "assets/images/cutScences/08_epp_wakeup.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "09_epp_meetfor",
+      "url": "assets/images/cutScences/09_epp_meetfor.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "10_epp_ftfuture",
+      "url": "assets/images/cutScences/10_epp_ftfuture.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "cicon",
+      "url": "assets/images/extra/cicon.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "collisionBox",
+      "url": "assets/images/extra/collisionBox.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "collisionBoxW",
+      "url": "assets/images/extra/collisionBoxW.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "credit",
+      "url": "assets/images/extra/credit.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "stars(180x180)",
+      "url": "assets/images/extra/stars(180x180).png",
+      "frameWidth": 180,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "buhidott",
+      "url": "assets/images/pixelIMG/boss/buhidott.png",
+      "frameWidth": 45,
+      "frameHeight": 45,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "eagoldott",
+      "url": "assets/images/pixelIMG/boss/eagoldott.png",
+      "frameWidth": 45,
+      "frameHeight": 45,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "wantandot",
+      "url": "assets/images/pixelIMG/boss/wantandot.png",
+      "frameWidth": 45,
+      "frameHeight": 45,
+      "frameMax": 3,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "stars(180x180)1",
+      "url": "assets/images/pixelIMG/extras/stars(180x180).png",
+      "frameWidth": 180,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "stars(36x36)",
+      "url": "assets/images/pixelIMG/extras/stars(36x36).png",
+      "frameWidth": 36,
+      "frameHeight": 36,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "blue",
+      "url": "assets/images/pixelIMG/movingChar/blue.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "femaled",
+      "url": "assets/images/pixelIMG/movingChar/femaled.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "green",
+      "url": "assets/images/pixelIMG/movingChar/green.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "jakodott",
+      "url": "assets/images/pixelIMG/movingChar/jakodott.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "maled",
+      "url": "assets/images/pixelIMG/movingChar/maled.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "purple",
+      "url": "assets/images/pixelIMG/movingChar/purple.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "red",
+      "url": "assets/images/pixelIMG/movingChar/red.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameMax": 12,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "tree",
+      "url": "assets/images/pixelIMG/tree.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tree2",
+      "url": "assets/images/pixelIMG/tree2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tree3",
+      "url": "assets/images/pixelIMG/tree3.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "tree4",
+      "url": "assets/images/pixelIMG/tree4.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "bstand",
+      "url": "assets/images/standingIMG/bstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "doctorstand",
+      "url": "assets/images/standingIMG/doctorstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "eagolstand",
+      "url": "assets/images/standingIMG/eagolstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "femalestand",
+      "url": "assets/images/standingIMG/femalestand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "foreinstand",
+      "url": "assets/images/standingIMG/foreinstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "gstand",
+      "url": "assets/images/standingIMG/gstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "hidostand",
+      "url": "assets/images/standingIMG/hidostand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "jakostand",
+      "url": "assets/images/standingIMG/jakostand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "lasbos",
+      "url": "assets/images/standingIMG/lasbos.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "malestand",
+      "url": "assets/images/standingIMG/malestand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ououstand",
+      "url": "assets/images/standingIMG/ououstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "pstand",
+      "url": "assets/images/standingIMG/pstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "rstand",
+      "url": "assets/images/standingIMG/rstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "wantanstand",
+      "url": "assets/images/standingIMG/wantanstand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ppapbroken",
+      "url": "assets/images/extra/ppapbroken.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "ppapbroken2",
+      "url": "assets/images/extra/ppapbroken2.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "kobeP",
+      "url": "assets/images/UIImages/pinIcons/kobeP.png",
+      "frameWidth": 89,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "kyotoP",
+      "url": "assets/images/UIImages/pinIcons/kyotoP.png",
+      "frameWidth": 89,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "okinawaP",
+      "url": "assets/images/UIImages/pinIcons/okinawaP.png",
+      "frameWidth": 89,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "sapporoP",
+      "url": "assets/images/UIImages/pinIcons/sapporoP.png",
+      "frameWidth": 89,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "tokyoP",
+      "url": "assets/images/UIImages/pinIcons/tokyoP.png",
+      "frameWidth": 89,
+      "frameHeight": 180,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "greybox",
+      "url": "assets/images/UIImages/messageBoxes/greybox.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "moneyText",
+      "url": "assets/images/UIImages/messageBoxes/moneyText.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_item1",
+      "url": "assets/images/UIImages/store/item1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_item2",
+      "url": "assets/images/UIImages/store/item2.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_item3",
+      "url": "assets/images/UIImages/store/item3.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_item4",
+      "url": "assets/images/UIImages/store/item4.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_item5",
+      "url": "assets/images/UIImages/store/item5.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_item6",
+      "url": "assets/images/UIImages/store/item6.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_background",
+      "url": "assets/images/UIImages/store/store.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "store_menu_1",
+      "url": "assets/images/UIImages/store/store_menu_1.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "fence_W",
+      "url": "assets/images/extra/fence_W.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "fence_h",
+      "url": "assets/images/extra/fence_h.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sfence_H",
+      "url": "assets/images/extra/sfence_H.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sfence_W",
+      "url": "assets/images/extra/sfence_W.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "wfence_H",
+      "url": "assets/images/extra/wfence_H.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "wfence_W",
+      "url": "assets/images/extra/wfence_W.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_backward",
+      "url": "assets/images/UIImages/buttons/btn_backward.png",
+      "frameWidth": 100,
+      "frameHeight": 100,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "spritesheet",
+      "key": "time_bar",
+      "url": "assets/images/pixelIMG/extras/time_bar.png",
+      "frameWidth": 812,
+      "frameHeight": 188,
+      "frameMax": 20,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "heart_chance",
+      "url": "assets/images/pixelIMG/extras/heart_chance.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "btn_item",
+      "url": "assets/images/UIImages/buttons/btn_item.png",
+      "frameWidth": 147,
+      "frameHeight": 160,
+      "frameMax": 2,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "sp_ch_click",
+      "url": "assets/images/UIImages/pinIcons/sp_ch_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_ct_click",
+      "url": "assets/images/UIImages/pinIcons/sp_ct_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_op_click",
+      "url": "assets/images/UIImages/pinIcons/sp_op_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_sb_bg",
+      "url": "assets/images/StageMapImg/Sapporo/sp_sb_bg.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_sb_thumb",
+      "url": "assets/images/StageMapImg/Sapporo/sp_sb_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_st_bg",
+      "url": "assets/images/StageMapImg/Sapporo/sp_st_bg.jpg",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_st_thumb",
+      "url": "assets/images/StageMapImg/Sapporo/sp_st_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_sb_click",
+      "url": "assets/images/UIImages/pinIcons/sp_sb_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "sp_st_click",
+      "url": "assets/images/UIImages/pinIcons/sp_st_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kyotoMap",
+      "url": "assets/images/StageMapImg/Kyoto/kyotoMap.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kobeMap",
+      "url": "assets/images/StageMapImg/kobe/kobeMap.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "click_Odaiba",
+      "url": "assets/images/UIImages/pinIcons/click_Odaiba.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_hc_click",
+      "url": "assets/images/UIImages/pinIcons/kb_hc_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_hs_click",
+      "url": "assets/images/UIImages/pinIcons/kb_hs_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_kn_click",
+      "url": "assets/images/UIImages/pinIcons/kb_kn_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_pt_click",
+      "url": "assets/images/UIImages/pinIcons/kb_pt_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kb_rs_click",
+      "url": "assets/images/UIImages/pinIcons/kb_rs_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_as_click",
+      "url": "assets/images/UIImages/pinIcons/kt_as_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_gk_click",
+      "url": "assets/images/UIImages/pinIcons/kt_gk_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_hm_click",
+      "url": "assets/images/UIImages/pinIcons/kt_hm_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_kk_click",
+      "url": "assets/images/UIImages/pinIcons/kt_kk_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_km_click",
+      "url": "assets/images/UIImages/pinIcons/kt_km_click.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "kt_km_thumb",
+      "url": "assets/images/StageMapImg/Kyoto/kt_km_thumb.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "rock",
+      "url": "assets/images/pixelIMG/rock.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "stone",
+      "url": "assets/images/pixelIMG/stone.png",
+      "overwrite": false
+    }
+  ],
+  "audio": [
+    {
+      "type": "audio",
+      "key": "SE_CHACHING",
+      "urls": ["assets/audio/SE/SE_CHACHING.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_DOKANN",
+      "urls": ["assets/audio/SE/SE_DOKANN.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_ITEMEFFECT_1",
+      "urls": ["assets/audio/SE/SE_ITEMEFFECT_1.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_ITEMEFFECT_2",
+      "urls": ["assets/audio/SE/SE_ITEMEFFECT_2.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_PIRIN",
+      "urls": ["assets/audio/SE/SE_PIRIN.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_POTIONSE",
+      "urls": ["assets/audio/SE/SE_POSIONSE.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_POW",
+      "urls": ["assets/audio/SE/SE_POW.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_RUNAWAY_1",
+      "urls": ["assets/audio/SE/SE_RUNAWAY_1.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SE_RUNAWAY_2",
+      "urls": ["assets/audio/SE/SE_RUNAWAY_2.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_hc_01",
+      "urls": ["assets/audio/Script_Voice/kb/kb_hc/kb_hc_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_hc_02",
+      "urls": ["assets/audio/Script_Voice/kb/kb_hc/kb_hc_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_hc_03",
+      "urls": ["assets/audio/Script_Voice/kb/kb_hc/kb_hc_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_hc_04",
+      "urls": ["assets/audio/Script_Voice/kb/kb_hc/kb_hc_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_hc_05",
+      "urls": ["assets/audio/Script_Voice/kb/kb_hc/kb_hc_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_hc_06",
+      "urls": ["assets/audio/Script_Voice/kb/kb_hc/kb_hc_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_kn_01",
+      "urls": ["assets/audio/Script_Voice/kb/kb_kn/kb_kn_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_kn_02",
+      "urls": ["assets/audio/Script_Voice/kb/kb_kn/kb_kn_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_kn_03",
+      "urls": ["assets/audio/Script_Voice/kb/kb_kn/kb_kn_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_kn_04",
+      "urls": ["assets/audio/Script_Voice/kb/kb_kn/kb_kn_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_kn_05",
+      "urls": ["assets/audio/Script_Voice/kb/kb_kn/kb_kn_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_kn_06",
+      "urls": ["assets/audio/Script_Voice/kb/kb_kn/kb_kn_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_pt_01",
+      "urls": ["assets/audio/Script_Voice/kb/kb_pt/kb_pt_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_pt_02",
+      "urls": ["assets/audio/Script_Voice/kb/kb_pt/kb_pt_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_pt_03",
+      "urls": ["assets/audio/Script_Voice/kb/kb_pt/kb_pt_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_pt_04",
+      "urls": ["assets/audio/Script_Voice/kb/kb_pt/kb_pt_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_pt_05",
+      "urls": ["assets/audio/Script_Voice/kb/kb_pt/kb_pt_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_pt_06",
+      "urls": ["assets/audio/Script_Voice/kb/kb_pt/kb_pt_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_rs_01",
+      "urls": ["assets/audio/Script_Voice/kb/kb_rs/kb_rs_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_rs_02",
+      "urls": ["assets/audio/Script_Voice/kb/kb_rs/kb_rs_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_rs_03",
+      "urls": ["assets/audio/Script_Voice/kb/kb_rs/kb_rs_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_rs_04",
+      "urls": ["assets/audio/Script_Voice/kb/kb_rs/kb_rs_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_rs_05",
+      "urls": ["assets/audio/Script_Voice/kb/kb_rs/kb_rs_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kb_rs_06",
+      "urls": ["assets/audio/Script_Voice/kb/kb_rs/kb_rs_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_as_01",
+      "urls": ["assets/audio/Script_Voice/kt/kt_as/kt_as_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_as_02",
+      "urls": ["assets/audio/Script_Voice/kt/kt_as/kt_as_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_as_03",
+      "urls": ["assets/audio/Script_Voice/kt/kt_as/kt_as_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_as_04",
+      "urls": ["assets/audio/Script_Voice/kt/kt_as/kt_as_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_as_05",
+      "urls": ["assets/audio/Script_Voice/kt/kt_as/kt_as_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_as_06",
+      "urls": ["assets/audio/Script_Voice/kt/kt_as/kt_as_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_gk_01",
+      "urls": ["assets/audio/Script_Voice/kt/kt_gk/kt_gk_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_gk_02",
+      "urls": ["assets/audio/Script_Voice/kt/kt_gk/kt_gk_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_gk_03",
+      "urls": ["assets/audio/Script_Voice/kt/kt_gk/kt_gk_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_gk_04",
+      "urls": ["assets/audio/Script_Voice/kt/kt_gk/kt_gk_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_gk_05",
+      "urls": ["assets/audio/Script_Voice/kt/kt_gk/kt_gk_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_gk_06",
+      "urls": ["assets/audio/Script_Voice/kt/kt_gk/kt_gk_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_hm_01",
+      "urls": ["assets/audio/Script_Voice/kt/kt_hm/kt_hm_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_hm_02",
+      "urls": ["assets/audio/Script_Voice/kt/kt_hm/kt_hm_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_hm_03",
+      "urls": ["assets/audio/Script_Voice/kt/kt_hm/kt_hm_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_hm_04",
+      "urls": ["assets/audio/Script_Voice/kt/kt_hm/kt_hm_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_hm_05",
+      "urls": ["assets/audio/Script_Voice/kt/kt_hm/kt_hm_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_hm_06",
+      "urls": ["assets/audio/Script_Voice/kt/kt_hm/kt_hm_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_km_01",
+      "urls": ["assets/audio/Script_Voice/kt/kt_km/kt_km_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_km_02",
+      "urls": ["assets/audio/Script_Voice/kt/kt_km/kt_km_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_km_03",
+      "urls": ["assets/audio/Script_Voice/kt/kt_km/kt_km_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_km_04",
+      "urls": ["assets/audio/Script_Voice/kt/kt_km/kt_km_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_km_05",
+      "urls": ["assets/audio/Script_Voice/kt/kt_km/kt_km_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "kt_km_06",
+      "urls": ["assets/audio/Script_Voice/kt/kt_km/kt_km_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_av_01",
+      "urls": ["assets/audio/Script_Voice/ok/av/ok_av_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_av_02",
+      "urls": ["assets/audio/Script_Voice/ok/av/ok_av_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_av_03",
+      "urls": ["assets/audio/Script_Voice/ok/av/ok_av_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_av_04",
+      "urls": ["assets/audio/Script_Voice/ok/av/ok_av_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_av_05",
+      "urls": ["assets/audio/Script_Voice/ok/av/ok_av_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_av_06",
+      "urls": ["assets/audio/Script_Voice/ok/av/ok_av_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_kb_01",
+      "urls": ["assets/audio/Script_Voice/ok/kb/ok_kb_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_kb_02",
+      "urls": ["assets/audio/Script_Voice/ok/kb/ok_kb_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_kb_03",
+      "urls": ["assets/audio/Script_Voice/ok/kb/ok_kb_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_kb_04",
+      "urls": ["assets/audio/Script_Voice/ok/kb/ok_kb_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_kb_05",
+      "urls": ["assets/audio/Script_Voice/ok/kb/ok_kb_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_kb_06",
+      "urls": ["assets/audio/Script_Voice/ok/kb/ok_kb_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_mj_01",
+      "urls": ["assets/audio/Script_Voice/ok/mj/ok_mj_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_mj_02",
+      "urls": ["assets/audio/Script_Voice/ok/mj/ok_mj_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_mj_03",
+      "urls": ["assets/audio/Script_Voice/ok/mj/ok_mj_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_mj_04",
+      "urls": ["assets/audio/Script_Voice/ok/mj/ok_mj_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_mj_05",
+      "urls": ["assets/audio/Script_Voice/ok/mj/ok_mj_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_mj_06",
+      "urls": ["assets/audio/Script_Voice/ok/mj/ok_mj_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_sc_01",
+      "urls": ["assets/audio/Script_Voice/ok/sc/ok_sc_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_sc_02",
+      "urls": ["assets/audio/Script_Voice/ok/sc/ok_sc_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_sc_03",
+      "urls": ["assets/audio/Script_Voice/ok/sc/ok_sc_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_sc_04",
+      "urls": ["assets/audio/Script_Voice/ok/sc/ok_sc_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_sc_05",
+      "urls": ["assets/audio/Script_Voice/ok/sc/ok_sc_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "ok_sc_06",
+      "urls": ["assets/audio/Script_Voice/ok/sc/ok_sc_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ch_01",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ch/sp_ch_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ch_02",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ch/sp_ch_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ch_03",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ch/sp_ch_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ch_04",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ch/sp_ch_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ch_05",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ch/sp_ch_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ch_06",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ch/sp_ch_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ct_01",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ct/sp_ct_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ct_02",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ct/sp_ct_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ct_03",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ct/sp_ct_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ct_04",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ct/sp_ct_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ct_05",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ct/sp_ct_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_ct_06",
+      "urls": ["assets/audio/Script_Voice/sp/sp_ct/sp_ct_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_op_01",
+      "urls": ["assets/audio/Script_Voice/sp/sp_op/sp_op_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_op_02",
+      "urls": ["assets/audio/Script_Voice/sp/sp_op/sp_op_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_op_03",
+      "urls": ["assets/audio/Script_Voice/sp/sp_op/sp_op_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_op_04",
+      "urls": ["assets/audio/Script_Voice/sp/sp_op/sp_op_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_op_05",
+      "urls": ["assets/audio/Script_Voice/sp/sp_op/sp_op_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_op_06",
+      "urls": ["assets/audio/Script_Voice/sp/sp_op/sp_op_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_tv_01",
+      "urls": ["assets/audio/Script_Voice/sp/sp_tv/sp_tv_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_tv_02",
+      "urls": ["assets/audio/Script_Voice/sp/sp_tv/sp_tv_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_tv_03",
+      "urls": ["assets/audio/Script_Voice/sp/sp_tv/sp_tv_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_tv_04",
+      "urls": ["assets/audio/Script_Voice/sp/sp_tv/sp_tv_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_tv_05",
+      "urls": ["assets/audio/Script_Voice/sp/sp_tv/sp_tv_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "sp_tv_06",
+      "urls": ["assets/audio/Script_Voice/sp/sp_tv/sp_tv_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_ak_01",
+      "urls": ["assets/audio/Script_Voice/tk/tk_ak/tk_ak_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_ak_02",
+      "urls": ["assets/audio/Script_Voice/tk/tk_ak/tk_ak_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_ak_03",
+      "urls": ["assets/audio/Script_Voice/tk/tk_ak/tk_ak_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_ak_04",
+      "urls": ["assets/audio/Script_Voice/tk/tk_ak/tk_ak_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_ak_05",
+      "urls": ["assets/audio/Script_Voice/tk/tk_ak/tk_ak_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_ak_06",
+      "urls": ["assets/audio/Script_Voice/tk/tk_ak/tk_ak_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_od_01",
+      "urls": ["assets/audio/Script_Voice/tk/tk_od/tk_od_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_od_02",
+      "urls": ["assets/audio/Script_Voice/tk/tk_od/tk_od_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_od_03",
+      "urls": ["assets/audio/Script_Voice/tk/tk_od/tk_od_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_od_04",
+      "urls": ["assets/audio/Script_Voice/tk/tk_od/tk_od_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_od_05",
+      "urls": ["assets/audio/Script_Voice/tk/tk_od/tk_od_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_od_06",
+      "urls": ["assets/audio/Script_Voice/tk/tk_od/tk_od_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_rb_01",
+      "urls": ["assets/audio/Script_Voice/tk/tk_rb/tk_rb_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_rb_02",
+      "urls": ["assets/audio/Script_Voice/tk/tk_rb/tk_rb_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_rb_03",
+      "urls": ["assets/audio/Script_Voice/tk/tk_rb/tk_rb_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_rb_04",
+      "urls": ["assets/audio/Script_Voice/tk/tk_rb/tk_rb_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_rb_05",
+      "urls": ["assets/audio/Script_Voice/tk/tk_rb/tk_rb_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_rb_06",
+      "urls": ["assets/audio/Script_Voice/tk/tk_rb/tk_rb_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_td_01",
+      "urls": ["assets/audio/Script_Voice/tk/tk_td/tk_td_01.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_td_02",
+      "urls": ["assets/audio/Script_Voice/tk/tk_td/tk_td_02.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_td_03",
+      "urls": ["assets/audio/Script_Voice/tk/tk_td/tk_td_03.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_td_04",
+      "urls": ["assets/audio/Script_Voice/tk/tk_td/tk_td_04.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_td_05",
+      "urls": ["assets/audio/Script_Voice/tk/tk_td/tk_td_05.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "tk_td_06",
+      "urls": ["assets/audio/Script_Voice/tk/tk_td/tk_td_06.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Battle_against_Boss",
+      "urls": ["assets/audio/bgm/Battle_against_Boss.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Battle_against_Jako1",
+      "urls": ["assets/audio/bgm/Battle_against_Jako1.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Battle_against_Jako2",
+      "urls": ["assets/audio/bgm/Battle_against_Jako2.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Epilog_bgm",
+      "urls": ["assets/audio/bgm/Epilog_bgm.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Epilog_foreiner",
+      "urls": ["assets/audio/bgm/Epilog_foreiner.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Foreigner_theme",
+      "urls": ["assets/audio/bgm/Foreigner_theme.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Opening_showMap",
+      "urls": ["assets/audio/bgm/Opening_showMap.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Score_afterResult",
+      "urls": ["assets/audio/bgm/Score_afterResult.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "Scoreing",
+      "urls": ["assets/audio/bgm/Scoreing.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "SelectArea",
+      "urls": ["assets/audio/bgm/SelectArea.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "title_vol1",
+      "urls": ["assets/audio/bgm/title_vol1.mp3"],
+      "autoDecode": true
+    },
+    {
+      "type": "audio",
+      "key": "store_background1",
+      "urls": ["assets/audio/bgm/store_background.mp3"],
+      "autoDecode": true
+    }
+  ],
+  "meta": {
+    "generated": "1539744141215",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}

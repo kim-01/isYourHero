@@ -1,0 +1,323 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "de769872-fbe4-4a9b-9d1c-841b4ed029fb",
+          "asset": "0",
+          "info": {
+            "editorName": "kyotoMap",
+            "scale.x": 1.3163935024542592,
+            "scale.y": 1.514999942283
+          }
+        },
+        {
+          "type": "image",
+          "id": "246d8674-1016-4cf6-8022-08ac384da961",
+          "asset": "1",
+          "info": {
+            "editorName": "kt_as_click",
+            "x": 426,
+            "y": 272,
+            "scale.x": 0.35,
+            "scale.y": 0.35
+          }
+        },
+        {
+          "type": "image",
+          "id": "e0519f2d-ad44-46a6-8905-2eccbbfb55fe",
+          "asset": "2",
+          "info": {
+            "editorName": "kt_as_thumb",
+            "x": 428,
+            "y": 186,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "79ccf311-9b59-4d10-a120-701ee42bd69d",
+          "asset": "3",
+          "info": {
+            "editorName": "kt_hm_click",
+            "x": 122,
+            "y": 203,
+            "scale.x": 0.35,
+            "scale.y": 0.35
+          }
+        },
+        {
+          "type": "image",
+          "id": "f11dde1b-b19a-4372-bed4-d4eb5fb55d12",
+          "asset": "4",
+          "info": {
+            "editorName": "kt_hm_thumb",
+            "x": 109,
+            "y": 126,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "cdad768e-02d7-41fd-a55f-3e7572bb6a8c",
+          "asset": "5",
+          "info": {
+            "editorName": "kt_km_click",
+            "x": 571,
+            "y": 240,
+            "scale.x": 0.35,
+            "scale.y": 0.35
+          }
+        },
+        {
+          "type": "image",
+          "id": "0d43b8c0-732b-4308-91e2-f1646fd361d1",
+          "asset": "6",
+          "info": {
+            "editorName": "popup",
+            "x": 185,
+            "y": 240,
+            "scale.x": 1.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "b434922c-9f72-4d94-ac67-4f9f9dfebac6",
+          "asset": "7",
+          "info": {
+            "editorName": "btn_exit",
+            "x": 10,
+            "y": 10,
+            "scale.x": 0.4,
+            "scale.y": 0.4
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "fbbf2d08-cae7-4419-b637-6ccb74fc75a9",
+          "asset": "8",
+          "info": {
+            "editorName": "btn_nope",
+            "x": 565,
+            "y": 315,
+            "scale.x": 0.4,
+            "scale.y": 0.4
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "bc0e849d-5d8b-40be-b01a-64aebba9c1c1",
+          "asset": "9",
+          "info": {
+            "editorName": "btn_store",
+            "x": 640,
+            "y": 440
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "1f7cd514-c15d-4346-a675-babc31a2d325",
+          "asset": "10",
+          "info": {
+            "editorName": "btn_yes",
+            "x": 505,
+            "y": 315,
+            "scale.x": 0.4,
+            "scale.y": 0.4
+          }
+        },
+        {
+          "type": "image",
+          "id": "d1b8f9d4-a4d4-4766-a585-2fc0f8796aee",
+          "asset": "11",
+          "info": {
+            "editorName": "kt_km_thumb",
+            "x": 570,
+            "y": 158,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "4a535ce5-c931-401d-9305-d3b29d9352c6",
+          "asset": "12",
+          "info": {
+            "editorName": "kt_gk_click",
+            "x": 226,
+            "y": 231,
+            "scale.x": 0.35,
+            "scale.y": 0.35
+          }
+        },
+        {
+          "type": "image",
+          "id": "90ed4da5-29de-4296-b3f9-7237dede211f",
+          "asset": "13",
+          "info": {
+            "editorName": "kt_gk_thumb",
+            "x": 224,
+            "y": 152,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "d8b100d7-c8d0-49c3-ab44-2538e5c4d956",
+          "asset": "14",
+          "info": {
+            "editorName": "kt_kk_click",
+            "x": 348,
+            "y": 154,
+            "scale.x": 0.35,
+            "scale.y": 0.35
+          }
+        },
+        {
+          "type": "image",
+          "id": "bb286e4f-274e-4173-928c-ed9e1dc01e6c",
+          "asset": "15",
+          "info": {
+            "editorName": "kt_kk_thumb",
+            "x": 348,
+            "y": 78,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kyotoMap"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_as_click"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_as_thumb"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_hm_click"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_hm_thumb"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_km_click"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "popup"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_exit",
+      "sprite": "0"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_nope",
+      "sprite": "0"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_store",
+      "sprite": "0"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_yes",
+      "sprite": "0"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_km_thumb"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_gk_click"
+    },
+    "13": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_gk_thumb"
+    },
+    "14": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_kk_click"
+    },
+    "15": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kt_kk_thumb"
+    }
+  },
+  "prefab-table": {}
+}

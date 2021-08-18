@@ -1,0 +1,244 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "manjamo",
+    "sceneWidth": 640,
+    "sceneHeight": 360,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true
+  },
+  "stateSettings": {
+    "stageBackgroundColor": [
+      0,
+      0,
+      0
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "9a20e6a4-1a34-4d74-a69a-64baa77eb046",
+    "info": {
+      "editorName": "manjamo",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "ed843834-bfce-460e-bc2c-76a807fc1d8b",
+          "asset": "0",
+          "info": {
+            "editorName": "ok_mj_map",
+            "x": -1,
+            "y": -1
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "e36cf02c-1727-4262-a854-5a24afa38517",
+          "asset": "1",
+          "info": {
+            "editorName": "jakodott",
+            "x": 426,
+            "y": 246
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "9f709080-ce83-464b-9085-d6d9828ebe61",
+          "asset": "1",
+          "info": {
+            "editorName": "jakodott1",
+            "x": 394,
+            "y": 228
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "ccbb203f-6f4b-4eb7-8a91-4d7715c7e42e",
+          "asset": "1",
+          "info": {
+            "editorName": "jakodott2",
+            "x": 457,
+            "y": 230
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "143e1d0b-3d02-4a23-afd1-e39dc508ee66",
+          "asset": "2",
+          "info": {
+            "editorName": "red",
+            "x": 581,
+            "y": 364
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "f446bdb6-aa97-4127-9ece-af383b82879e",
+          "asset": "3",
+          "info": {
+            "editorName": "blue",
+            "x": 523,
+            "y": 366
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "50a6c510-2dc2-4598-bc68-7a8e468a6213",
+          "asset": "4",
+          "info": {
+            "editorName": "green",
+            "x": 551,
+            "y": 370
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "c553f41a-44cb-4ddd-88aa-7accea0209e1",
+          "asset": "5",
+          "info": {
+            "editorName": "purple",
+            "x": 612,
+            "y": 361
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "86f27167-0fa1-487b-9479-8444692bfd03",
+          "asset": "6",
+          "info": {
+            "editorName": "maled",
+            "x": 10,
+            "y": 565
+          }
+        },
+        {
+          "type": "image",
+          "id": "dba1081f-dd94-425a-aecc-098780bd16bf",
+          "asset": "7",
+          "info": {
+            "editorName": "collisionBox",
+            "x": 56,
+            "y": 486
+          }
+        },
+        {
+          "type": "image",
+          "id": "bed2dde3-2ac1-4982-b64b-3e29c09a9fe6",
+          "asset": "8",
+          "info": {
+            "editorName": "collisionBoxW",
+            "x": -1,
+            "y": 449
+          }
+        },
+        {
+          "type": "image",
+          "id": "fc9fb212-c8b2-4b39-846f-f5fb44208610",
+          "asset": "7",
+          "info": {
+            "editorName": "collisionBox1",
+            "x": 56,
+            "y": 594
+          }
+        },
+        {
+          "type": "image",
+          "id": "7016409b-b324-4ee5-91cc-79fc84a26ed7",
+          "asset": "9",
+          "info": {
+            "editorName": "tree",
+            "x": 1350,
+            "y": 572
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "7ee9afd9-3e0f-428c-86ba-3d25bec67253",
+          "asset": "5",
+          "info": {
+            "editorName": "purple1",
+            "x": 9,
+            "y": 603
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "ok_mj_map"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "jakodott",
+      "sprite": "0"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "red",
+      "sprite": "0"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "blue",
+      "sprite": "0"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "green",
+      "sprite": "0"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "purple",
+      "sprite": "0"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "maled",
+      "sprite": "0"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "collisionBox"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "collisionBoxW"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tree4"
+    }
+  },
+  "prefab-table": {}
+}

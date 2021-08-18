@@ -1,0 +1,318 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "95028021-0eb7-4410-8c1f-cc7dc13e88fa",
+          "asset": "0",
+          "info": {
+            "editorName": "okinawaMap1",
+            "x": -6,
+            "y": -7,
+            "scale.x": 1.9687805622336685,
+            "scale.y": 1.5220000469064325
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "7e921fd2-88a1-4af1-9677-5168b241e05d",
+          "asset": "1",
+          "info": {
+            "editorName": "btn_store",
+            "x": 620,
+            "y": 385
+          }
+        },
+        {
+          "type": "image",
+          "id": "aed85460-243a-4f70-8c59-91611964a8ac",
+          "asset": "2",
+          "info": {
+            "editorName": "click_am5",
+            "x": 230,
+            "y": 299,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "04d2f8ec-1387-4452-932d-9dd3df2a3e5e",
+          "asset": "3",
+          "info": {
+            "editorName": "okinawa_american",
+            "x": 200,
+            "y": 230,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "38dac634-ddeb-4ef8-97f6-485198b70b80",
+          "asset": "4",
+          "info": {
+            "editorName": "click_am",
+            "x": 161,
+            "y": 398,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "ecfa60eb-27c3-4022-b3ea-e2999759f861",
+          "asset": "5",
+          "info": {
+            "editorName": "okinawa_shuri",
+            "x": 129,
+            "y": 331,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "3cefcf40-968b-437f-957e-b14e21a52af2",
+          "asset": "6",
+          "info": {
+            "editorName": "click_am6",
+            "x": 355,
+            "y": 288,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "a07b37b4-9ca5-486b-9234-509760108009",
+          "asset": "7",
+          "info": {
+            "editorName": "okinawa_manjamo",
+            "x": 327,
+            "y": 223,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "54bd9386-a2a1-45b5-879d-c05bad961b82",
+          "asset": "8",
+          "info": {
+            "editorName": "click_am1",
+            "x": 440,
+            "y": 213,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "a57b31f3-d9f0-44ad-aa6b-68b0dfe41468",
+          "asset": "9",
+          "info": {
+            "editorName": "okinawa_kouri",
+            "x": 417,
+            "y": 135,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "19c7c5a5-65d3-4259-bf64-6fbaf233668c",
+          "asset": "10",
+          "info": {
+            "editorName": "click_am2",
+            "x": 525,
+            "y": 280,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "ac8a1769-b83f-4aaf-bde2-8d937d78c2e9",
+          "asset": "11",
+          "info": {
+            "editorName": "okinawa_pineapple",
+            "x": 496,
+            "y": 207,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "4841a57e-7c33-4e3e-beec-d0ec9d531969",
+          "asset": "12",
+          "info": {
+            "editorName": "msg1",
+            "x": 137,
+            "y": 311,
+            "scale.x": 0.4,
+            "scale.y": 0.4
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "8b96c6dc-399c-4eeb-a99c-3444517e7ec8",
+          "asset": "13",
+          "info": {
+            "editorName": "btn_yes",
+            "x": 415,
+            "y": 380,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "b10eaa6e-cb47-4a12-9d0c-475c8072ed6d",
+          "asset": "14",
+          "info": {
+            "editorName": "btn_no",
+            "x": 500,
+            "y": 380,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        },
+        {
+          "type": "text",
+          "id": "4eae8699-662e-4b2c-9bc4-cdfa644ceaa8",
+          "info": {
+            "editorName": "text",
+            "x": 190,
+            "y": 356,
+            "text": "This is a text"
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawaMap"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_store",
+      "sprite": "0"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_am2"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawa_american"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_am1"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawa_shuri"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_am3"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawa_manjamo"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_am4"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawa_kouri"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_am5"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawa_pineapple"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "msg"
+    },
+    "13": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_yes",
+      "sprite": "0"
+    },
+    "14": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_no",
+      "sprite": "0"
+    }
+  },
+  "prefab-table": {}
+}

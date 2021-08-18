@@ -1,0 +1,194 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "f11cefd8-4fcd-4f9f-b8a3-0e3dd9fdeaec",
+          "asset": "0",
+          "info": {
+            "editorName": "_6_letsGogo",
+            "x": -10,
+            "y": -14,
+            "scale.x": 0.40321325807740654,
+            "scale.y": 0.4535453765710031
+          }
+        },
+        {
+          "type": "image",
+          "id": "573a3b0c-bc1c-44e0-ba1e-f20eaa826148",
+          "asset": "1",
+          "info": {
+            "editorName": "_0_ruins",
+            "x": -13,
+            "y": -18,
+            "scale.x": 0.8283505793053902,
+            "scale.y": 0.9802155453856709
+          }
+        },
+        {
+          "type": "image",
+          "id": "3f21d0f9-17f3-40e5-8c15-c96d5304c4a7",
+          "asset": "2",
+          "info": {
+            "editorName": "opp_dokann",
+            "x": -16,
+            "y": -15,
+            "scale.x": 0.40321325807740654,
+            "scale.y": 0.4535453765710031
+          }
+        },
+        {
+          "type": "image",
+          "id": "c144377b-ecae-4ea3-9775-3da8e0529d42",
+          "asset": "3",
+          "info": {
+            "editorName": "opp_sleep",
+            "x": -7,
+            "y": -8,
+            "scale.x": 0.40321325807740654,
+            "scale.y": 0.4535453765710031
+          }
+        },
+        {
+          "type": "image",
+          "id": "3410abda-07a9-4931-9ea1-756d59e5e1e6",
+          "asset": "4",
+          "info": {
+            "editorName": "opp_scared",
+            "x": -11,
+            "y": -8,
+            "scale.x": 0.40321325807740654,
+            "scale.y": 0.4535453765710031
+          }
+        },
+        {
+          "type": "image",
+          "id": "ed1f1a0b-b65c-45f8-9a46-a07ee4fc8ab5",
+          "asset": "5",
+          "info": {
+            "editorName": "foreignspeak",
+            "x": -10,
+            "y": -4,
+            "scale.x": 0.40321325807740654,
+            "scale.y": 0.4535453765710031
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "67e5575d-b8f3-435d-883f-31e4e7ed2d44",
+          "asset": "6",
+          "info": {
+            "editorName": "textbox",
+            "x": 57,
+            "y": 218,
+            "scale.x": 2.3399999851726405,
+            "scale.y": 2.590000002976019,
+            "animations": [{
+              "name": "change",
+              "frameRate": 6,
+              "loop": true,
+              "autoPlay": true,
+              "frames": [
+                "0",
+                "1",
+                "2"
+              ]
+            }]
+          }
+        },
+        {
+          "type": "text",
+          "id": "7af8cf92-316d-4711-af43-2cb0d603a50f",
+          "info": {
+            "editorName": "text",
+            "x": 99,
+            "y": 179,
+            "text": "Hello! \r\nSL:kj@#da\r\nlkgas'jgk'\r\nlak$@*s6@???",
+            "style.fontSize": 40
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "06_letsGogo"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "00_ruins"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "opp_dokann"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "opp_sleep"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "opp_scared"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "foreignspeak"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "textbox",
+      "sprite": "0"
+    }
+  },
+  "prefab-table": {}
+}

@@ -1,0 +1,8 @@
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin:@www.isYourHero.tk:1521:xe
+username=hr
+password=Ehero2018
+email.smtpServer = www.isYourHero.tk
+email.port = 587
+email.username = auth@isYourHero.tk
+email.password = !QAZ2wsx#EDC

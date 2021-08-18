@@ -1,0 +1,154 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "c17c124d-15e5-4f0d-99d8-c6c8bebbfc1c",
+          "asset": "0",
+          "info": {
+            "editorName": "universial",
+            "x": -125,
+            "y": 2,
+            "scale.x": 1.4537358774647136,
+            "scale.y": 1.523236715222172
+          }
+        },
+        {
+          "type": "image",
+          "id": "e3254edd-c3f7-4d80-8819-378e689c7f90",
+          "asset": "1",
+          "info": {
+            "editorName": "pstand",
+            "x": 470,
+            "y": 137,
+            "scale.x": 0.3729579490651983,
+            "scale.y": 0.3659756293795315
+          }
+        },
+        {
+          "type": "image",
+          "id": "e2177860-8817-4025-a102-8794302d06cc",
+          "asset": "2",
+          "info": {
+            "editorName": "greybox",
+            "x": 58.95999934522756,
+            "y": 361.10357596398774,
+            "scale.x": 5.3171194031661075,
+            "scale.y": 5.086720339307865
+          }
+        },
+        {
+          "type": "image",
+          "id": "3ad2373a-f956-4d08-99b5-c056ebafda97",
+          "asset": "3",
+          "info": {
+            "editorName": "next",
+            "x": 495,
+            "y": 476,
+            "scale.x": 0.7192001331218854,
+            "scale.y": 0.6939998695497056
+          }
+        },
+        {
+          "type": "image",
+          "id": "81ff613d-88f3-4041-9438-77f517588610",
+          "asset": "4",
+          "info": {
+            "editorName": "stopButton",
+            "x": 499,
+            "y": 478,
+            "scale.x": 0.16666666471083033,
+            "scale.y": 0.17666668635755656
+          }
+        },
+        {
+          "type": "image",
+          "id": "b459bdfc-7d1c-4a7a-9d85-45db88c3c075",
+          "asset": "5",
+          "info": {
+            "editorName": "saveButton",
+            "x": 438,
+            "y": 483,
+            "scale.x": 0.11555560291763821,
+            "scale.y": 0.10000000796836735
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "universial"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "pstand"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "greybox"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "next"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "stopButton"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "saveButton"
+    }
+  },
+  "prefab-table": {}
+}

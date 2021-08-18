@@ -1,0 +1,118 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "fd2fab81-f73b-4427-8b7a-4ecd4bf1c654",
+          "asset": "0",
+          "info": {
+            "editorName": "okinawa_pineapple",
+            "scale.x": 0.1995465313090483,
+            "scale.y": 0.20883560767257645
+          }
+        },
+        {
+          "type": "image",
+          "id": "e1ac068a-e2be-437f-a92c-e54b3b0a1457",
+          "asset": "1",
+          "info": {
+            "editorName": "ououstand",
+            "x": 242,
+            "y": 172,
+            "scale.x": 0.40599996092610624,
+            "scale.y": 0.32082085329473053
+          }
+        },
+        {
+          "type": "image",
+          "id": "03ff78c3-14f0-438b-a509-6a7bc7bf5ddf",
+          "asset": "2",
+          "info": {
+            "editorName": "greybox",
+            "x": 92.06649906458912,
+            "y": 417,
+            "scale.x": 5.279200233202288,
+            "scale.y": 4.212399931409101
+          }
+        },
+        {
+          "type": "image",
+          "id": "2024c290-9956-4258-9c62-ad2fb8bcc531",
+          "asset": "3",
+          "info": {
+            "editorName": "button_next",
+            "x": 625,
+            "y": 522,
+            "scale.x": 0.22499996012796686,
+            "scale.y": 0.21500001104168162
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawa_pineapple"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "ououstand"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "greybox"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "button_next"
+    }
+  },
+  "prefab-table": {}
+}

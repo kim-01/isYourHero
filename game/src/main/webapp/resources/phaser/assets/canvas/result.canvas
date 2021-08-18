@@ -1,0 +1,294 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "3f0b5e38-8a89-4d22-ae7f-3bd052a88b2b",
+          "asset": "0",
+          "info": {
+            "editorName": "universial",
+            "x": -204,
+            "scale.x": 1.581131955574456,
+            "scale.y": 1.5435115036798301
+          }
+        },
+        {
+          "type": "image",
+          "id": "b4b6985d-9c1a-4517-8890-05b523505b78",
+          "asset": "1",
+          "info": {
+            "editorName": "wantanstand",
+            "x": 169,
+            "y": 111,
+            "scale.x": 0.3795304265277349,
+            "scale.y": 0.373138366805366
+          }
+        },
+        {
+          "type": "image",
+          "id": "84829772-84bc-4fff-9f7c-721c9774c81e",
+          "asset": "2",
+          "info": {
+            "editorName": "hidostand",
+            "x": 211,
+            "y": 119,
+            "scale.x": 0.3795304265277349,
+            "scale.y": 0.373138366805366
+          }
+        },
+        {
+          "type": "image",
+          "id": "44e61d00-8705-4986-a9d7-df0763aa9c6c",
+          "asset": "3",
+          "info": {
+            "editorName": "eagolstand",
+            "x": 213,
+            "y": 114,
+            "scale.x": 0.3795304265277349,
+            "scale.y": 0.373138366805366
+          }
+        },
+        {
+          "type": "image",
+          "id": "085020cd-ba2b-4ccd-98b7-2c3287259287",
+          "asset": "4",
+          "info": {
+            "editorName": "jakostand",
+            "x": 185,
+            "y": 110,
+            "scale.x": 0.3795304265277349,
+            "scale.y": 0.373138366805366
+          }
+        },
+        {
+          "type": "image",
+          "id": "e86fd37d-77f3-41d8-9805-199f331cc949",
+          "asset": "5",
+          "info": {
+            "editorName": "rstand",
+            "x": -2,
+            "y": 124,
+            "scale.x": 0.3795304265277349,
+            "scale.y": 0.373138366805366
+          }
+        },
+        {
+          "type": "image",
+          "id": "82710c93-dfbd-42cb-8ba3-23b6a91c1ed6",
+          "asset": "6",
+          "info": {
+            "editorName": "bstand",
+            "x": 196,
+            "y": 114,
+            "scale.x": 0.3795304265277349,
+            "scale.y": 0.373138366805366
+          }
+        },
+        {
+          "type": "image",
+          "id": "4d80a3fd-b356-41db-bd85-9ed53801c0ce",
+          "asset": "7",
+          "info": {
+            "editorName": "greybox",
+            "x": 75,
+            "y": 402,
+            "scale.x": 5.089999551966813,
+            "scale.y": 3.6700004652268583
+          }
+        },
+        {
+          "type": "image",
+          "id": "2968eba7-2832-4f3c-a44f-0809291dfe5c",
+          "asset": "8",
+          "info": {
+            "editorName": "messageWindow",
+            "x": 55,
+            "y": 35,
+            "scale.x": 1.199200117593948,
+            "scale.y": 0.7771428572493325
+          }
+        },
+        {
+          "type": "image",
+          "id": "bca82143-e7c1-49d9-845b-e7e3cf9bd7e2",
+          "asset": "9",
+          "info": {
+            "editorName": "nextButton",
+            "x": 699,
+            "y": 516,
+            "scale.x": 0.4480001737023608,
+            "scale.y": 0.4060000861820272
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "1f408ced-fba6-4346-aa67-c4b807279910",
+          "asset": "10",
+          "info": {
+            "editorName": "stars2",
+            "x": 313,
+            "y": 163,
+            "scale.x": 0.5200001945553206,
+            "scale.y": 0.5400000125421701
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "9daa8956-10a4-4d3d-8bbb-5ae3672ede91",
+          "asset": "11",
+          "info": {
+            "editorName": "stars",
+            "x": 400,
+            "y": 167,
+            "scale.x": 0.5200001945553206,
+            "scale.y": 0.5400000125421701
+          }
+        },
+        {
+          "type": "text",
+          "id": "f30b1f81-aa32-426a-80aa-32df26104d0f",
+          "info": {
+            "editorName": "text",
+            "x": 167,
+            "y": 189,
+            "text": "This is a text"
+          }
+        },
+        {
+          "type": "text",
+          "id": "2e8584bc-8c13-4a72-a158-d63489968fca",
+          "info": {
+            "editorName": "text1",
+            "x": 183,
+            "y": 345,
+            "text": "This is a text"
+          }
+        },
+        {
+          "type": "image",
+          "id": "6e2a3b15-e126-42fb-ac9d-b5118d98be47",
+          "asset": "12",
+          "info": {
+            "editorName": "credit",
+            "x": 130,
+            "y": 72,
+            "scale.x": 1.440000156528595,
+            "scale.y": 1.2040000000287063
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "universial"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "wantanstand"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "hidostand"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "eagolstand"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "jakostand"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "rstand"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "bstand"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "greybox"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "messageWindow"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "nextButton"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "stars",
+      "sprite": "0"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "stars",
+      "sprite": "1"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "credit"
+    }
+  },
+  "prefab-table": {}
+}

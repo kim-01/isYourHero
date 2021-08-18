@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="global.sesoc.game.repositories.StageMapper">
+	<select id="getItemList" resultType="Item"> <!-- 전체 아이템 정보 -->
+		SELECT
+			itemunicode,
+			itemname,
+			itemcomment,
+			imgname,
+			price
+		FROM
+			item
+	</select>
+	
+	<select id="getOneScript" parameterType="String" resultType="Script"> <!-- 전체 아이템 정보 -->
+		SELECT
+			state
+			,filename
+			,syntexeng
+			,syntexjap
+		FROM
+			script
+		WHERE
+			filename = #{key}
+	</select>
+	
+	<!-- 스테이지 - 에피소드 녹음파일 key값 + 영문 스크립트 + 일문 스크립트 -->
+	<select id="getScript" parameterType="String" resultType="Script">
+		SELECT	
+				state
+				,filename
+				,syntexeng
+				,syntexjap
+		FROM
+				script
+		WHERE
+				state = #{state}
+	</select>
+	
+	
+	<!-- 스테이지 전체정보 -->
+	<select id="getStage" resultType="Stage">
+		SELECT
+				STATE
+				,MAXCOIN
+				,BOSSNAME
+				,SENTENSE
+		FROM
+				STAGE
+	</select>
+</mapper>

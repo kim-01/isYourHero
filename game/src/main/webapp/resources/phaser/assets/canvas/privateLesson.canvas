@@ -1,0 +1,153 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "c3be5e10-d236-40c1-970b-0b576500128e",
+          "asset": "0",
+          "info": {
+            "editorName": "universial",
+            "x": -161,
+            "scale.x": 1.5753458254993564,
+            "scale.y": 1.5576589747605283
+          }
+        },
+        {
+          "type": "image",
+          "id": "a88bcdf2-463c-4ef5-960f-b73e8abca1ad",
+          "asset": "1",
+          "info": {
+            "editorName": "gstand",
+            "x": 501.32203381551983,
+            "y": 187.0878180425451,
+            "scale.x": 0.30679336914925764,
+            "scale.y": 0.3328730255230799
+          }
+        },
+        {
+          "type": "image",
+          "id": "53d4da53-f4c8-477c-b0cd-146d62272081",
+          "asset": "2",
+          "info": {
+            "editorName": "bstand",
+            "x": -14,
+            "y": 196,
+            "scale.x": 0.29255434526784874,
+            "scale.y": 0.3257476923353662
+          }
+        },
+        {
+          "type": "image",
+          "id": "1b02952b-a54b-461d-99c5-8bd6d3ce3ebc",
+          "asset": "3",
+          "info": {
+            "editorName": "messageWindow",
+            "x": 321,
+            "y": 406,
+            "scale.x": 0.8367998682403446,
+            "scale.y": 0.2182857131902802
+          }
+        },
+        {
+          "type": "image",
+          "id": "032d3ee5-9896-42b7-8455-687c4947d346",
+          "asset": "4",
+          "info": {
+            "editorName": "greybox",
+            "x": 37,
+            "y": 407.2685843410334,
+            "scale.x": 3.4499996998936013,
+            "scale.y": 3.940000873249742
+          }
+        },
+        {
+          "type": "image",
+          "id": "619b133c-c3c8-42c6-8617-b6bf413887db",
+          "asset": "5",
+          "info": {
+            "editorName": "nextButton",
+            "x": 738,
+            "y": 516,
+            "scale.x": 0.21999986078816108,
+            "scale.y": 0.18400004004962398
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "universial"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "gstand"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "bstand"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "messageWindow"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "greybox"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "nextButton"
+    }
+  },
+  "prefab-table": {}
+}

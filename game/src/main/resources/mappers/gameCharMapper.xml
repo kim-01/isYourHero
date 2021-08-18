@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="global.sesoc.game.repositories.GameCharMapper">
+	<insert id="createChar" parameterType="Gamechar">
+		INSERT 
+		INTO GAMECHAR
+			(NICKNAME
+			,CHARUNICODE
+			,COIN
+			) 
+		VALUES
+			(#{nickname}
+			,#{charUnicode}
+			,#{coin}
+			)
+	</insert>
+	
+	<insert id="createUserItem" parameterType="UserItem">
+		INSERT 
+		INTO USERITEM
+			(NICKNAME
+			,ITEMUNICODE
+			,ITEMCOUNT
+			) 
+		VALUES
+			(#{nickname}
+			,#{itemUnicode}
+			,#{itemCount}
+			)
+	</insert>
+
+	<insert id="defaultStageSetting" parameterType="Score"> <!-- 가입시 스코어 전체정보 기본셋팅 -->		
+		INSERT 
+		INTO SCORE
+			(SCORESEQ
+			,NICKNAME
+			,STATE
+			,SCORE
+			)
+		VALUES
+			(SEQ_SCORE_SCORESEQ.NEXTVAL
+			,#{nickname}
+			,#{state}
+			,#{score}
+			)
+	</insert>
+
+	<select id="getGameCharInfo" parameterType="String" resultType="GameChar"> <!-- 캐릭터 성별, 코인 총액 -->
+		SELECT 
+			NICKNAME,
+			CHARUNICODE,
+			COIN
+		FROM 
+			GAMECHAR
+		WHERE
+			NICKNAME = #{nickname}
+	</select>
+	
+	<update id="updateTotalCoin" parameterType="GameChar"> <!-- 유저 코인 총액 수정 -->
+		UPDATE
+			GAMECHAR
+		SET
+			COIN = #{coin}
+		WHERE
+			NICKNAME = #{nickname}
+	</update>
+	
+	<select id="getUserItemList" parameterType="String" resultType="UserItem"> <!-- 유저 소지 아이템 리스트 -->
+		SELECT
+			I.ITEMNAME,
+			U.ITEMUNICODE,
+			U.ITEMCOUNT
+		FROM
+			USERITEM U,
+			ITEM I
+		WHERE
+			U.NICKNAME = #{nickname}
+			AND
+			I.ITEMUNICODE = U.ITEMUNICODE
+	</select>
+	
+	<update id="updateUserItem" parameterType="UserItem"> <!-- 유저 소지 아이템 리스트 수정 -->
+		UPDATE
+			USERITEM
+		SET
+			ITEMCOUNT = #{itemCount}
+		WHERE
+			ITEMUNICODE = #{itemUnicode}
+			AND
+			NICKNAME = #{nickname}
+	</update>
+	
+	<select id="getUserScoreList" parameterType="String" resultType="Score"> <!-- 유저 클리어 내역 -->
+		SELECT
+			STATE,
+			SCORE,
+			CLEARSTUDY
+		FROM
+			SCORE
+		WHERE
+			NICKNAME = #{nickname}
+	</select>
+	
+	<update id="updateUserScore" parameterType="Score"> <!-- 유저 클리어시 점수 수정 -->
+		UPDATE
+			SCORE
+		SET
+			SCORE = #{score}
+		WHERE
+			NICKNAME = #{nickname}
+			AND
+			STATE = #{state}
+	</update>
+	
+	<update id="updateUserStudy" parameterType="Score"> <!-- 유저 클리어시 점수 수정 -->
+		UPDATE
+			SCORE
+		SET
+			CLEARSTUDY = #{clearStudy}
+		WHERE
+			NICKNAME = #{nickname}
+			AND
+			STATE = #{state}
+	</update>
+	
+</mapper>

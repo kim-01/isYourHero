@@ -1,0 +1,325 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "ec2078bd-f106-4536-bc3b-30aed763459f",
+          "asset": "0",
+          "info": {
+            "editorName": "hokkaidoMap",
+            "x": -2,
+            "y": -2,
+            "scale.x": 1.6099999994069742,
+            "scale.y": 1.4404761730792635
+          }
+        },
+        {
+          "type": "image",
+          "id": "bf7dc756-2629-47cf-a121-50f254f1ec54",
+          "asset": "1",
+          "info": {
+            "editorName": "sp_ct_click",
+            "x": 139,
+            "y": 327,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "55a59af5-80ac-4898-81e3-322c491c9fe4",
+          "asset": "2",
+          "info": {
+            "editorName": "sp_ct_thumb",
+            "x": 107,
+            "y": 243,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "0ad6990e-a186-4cac-8408-7ee1a099acf2",
+          "asset": "3",
+          "info": {
+            "editorName": "sp_op_click",
+            "x": 401,
+            "y": 280,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "b7cece24-4ad9-44d2-a335-9840758b2e6d",
+          "asset": "4",
+          "info": {
+            "editorName": "sp_op_thumb",
+            "x": 377,
+            "y": 204,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "2072871c-b377-4aff-b61e-69b85dab5af9",
+          "asset": "5",
+          "info": {
+            "editorName": "sp_tv_click",
+            "x": 435,
+            "y": 435,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "74fb2d6b-2fc2-43c7-ad46-e7b866a9b194",
+          "asset": "6",
+          "info": {
+            "editorName": "sp_tv_thumb",
+            "x": 410,
+            "y": 356,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "1c84e67b-a0b6-47af-bcc0-eaec709df724",
+          "asset": "7",
+          "info": {
+            "editorName": "sp_bm_click",
+            "x": 380,
+            "y": 140,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "b3b5f153-b877-4dc9-b283-58be497ec3b3",
+          "asset": "8",
+          "info": {
+            "editorName": "sp_bm_thumb",
+            "x": 354,
+            "y": 62,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "c99503f3-84bb-4abc-91cc-0b0447ec6b96",
+          "asset": "9",
+          "info": {
+            "editorName": "sp_ch_click",
+            "x": 283,
+            "y": 381,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "761ad261-24a7-405b-a00c-284c32978020",
+          "asset": "10",
+          "info": {
+            "editorName": "sp_ch_thumb",
+            "x": 260,
+            "y": 303,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "5a53ceed-4ecc-42c2-817f-45608fb54b90",
+          "asset": "11",
+          "info": {
+            "editorName": "popup",
+            "x": 173,
+            "y": 287,
+            "scale.x": 1.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "e589281c-b689-4296-844d-b3e04475ac86",
+          "asset": "12",
+          "info": {
+            "editorName": "btn_store",
+            "x": 643,
+            "y": 446
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "f65a6a46-a5c6-43a3-837d-1956bbe03cd9",
+          "asset": "13",
+          "info": {
+            "editorName": "btn_yes",
+            "x": 467,
+            "y": 350,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "5ae09b95-d5e7-4587-a1f1-55fe3631bea9",
+          "asset": "14",
+          "info": {
+            "editorName": "btn_exit",
+            "x": 7,
+            "y": 2,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "4f58d310-9ffa-4888-9adc-64dd09c90e76",
+          "asset": "15",
+          "info": {
+            "editorName": "btn_nope",
+            "x": 541,
+            "y": 350,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "hokkaidoMap"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_ct_click"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_ct_thumb"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_op_click"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_op_thumb"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_tv_click"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_tv_thumb"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_bm_click"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_bm_thumb"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_ch_click"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sp_ch_thumb"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "popup"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_store",
+      "sprite": "0"
+    },
+    "13": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_yes",
+      "sprite": "0"
+    },
+    "14": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_exit",
+      "sprite": "0"
+    },
+    "15": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_nope",
+      "sprite": "0"
+    }
+  },
+  "prefab-table": {}
+}

@@ -1,0 +1,286 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "030b38b6-e8d7-4be1-8f48-a6870db8689c",
+          "asset": "0",
+          "info": {
+            "editorName": "store1",
+            "x": -4.022669867620102,
+            "y": -2,
+            "scale.x": 1.9590360620528051,
+            "scale.y": 1.2937500250708234
+          }
+        },
+        {
+          "type": "image",
+          "id": "b8c30249-89e9-41a3-837c-19279f4ce5ab",
+          "asset": "1",
+          "info": {
+            "editorName": "doctorstand1",
+            "x": 312.00000075264245,
+            "y": 48.9491182115123,
+            "scale.x": -0.46900771385154527,
+            "scale.y": 0.48025946583137036
+          }
+        },
+        {
+          "type": "image",
+          "id": "c1cab00a-2e12-4d29-95e7-bd277919c3cd",
+          "asset": "2",
+          "info": {
+            "editorName": "greybox1",
+            "x": 269.41750244798857,
+            "y": 433.9534892101716,
+            "scale.x": 4.319999642874927,
+            "scale.y": 3.8400002596082095
+          }
+        },
+        {
+          "type": "image",
+          "id": "dbe5b3c7-0f66-4faa-8041-57dad2c7aacd",
+          "asset": "3",
+          "info": {
+            "editorName": "store_menu_1",
+            "x": 297,
+            "y": 52,
+            "scale.x": 1.0535846574807652,
+            "scale.y": 0.9349613251734891
+          }
+        },
+        {
+          "type": "image",
+          "id": "9d6128c6-e278-4531-a767-0240ed83c9a3",
+          "asset": "4",
+          "info": {
+            "editorName": "item6",
+            "x": 366,
+            "y": 107,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "43720c15-e8b9-4483-813c-070b26db2030",
+          "asset": "5",
+          "info": {
+            "editorName": "item7",
+            "x": 494,
+            "y": 97,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "48841a83-f0df-4d39-bcf9-1ce4fe3eaaf0",
+          "asset": "6",
+          "info": {
+            "editorName": "item",
+            "x": 626,
+            "y": 104,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "49cf5890-5c77-45b6-a262-c21c851076b0",
+          "asset": "7",
+          "info": {
+            "editorName": "item1",
+            "x": 367,
+            "y": 232,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "f1c1019c-0a78-42cb-9e26-0284347e86ec",
+          "asset": "8",
+          "info": {
+            "editorName": "item2",
+            "x": 493,
+            "y": 225,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "832ce0cb-1af8-48ea-a9ad-84402f279ef3",
+          "asset": "9",
+          "info": {
+            "editorName": "item3",
+            "x": 627,
+            "y": 231,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "5bb5c525-54ca-4e13-8238-107063330d16",
+          "asset": "10",
+          "info": {
+            "editorName": "store_btn_exit1",
+            "x": -22,
+            "y": 497
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "a90f926d-8a9c-4156-8e2c-209adf6d4b37",
+          "asset": "11",
+          "info": {
+            "editorName": "store_btn_next1",
+            "x": 583,
+            "y": 473
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "cf42554e-0e71-42ed-9562-8cb1894cae08",
+          "asset": "12",
+          "info": {
+            "editorName": "store_btn_no1",
+            "x": 659,
+            "y": 538
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "288d686b-3be9-4087-8830-f22ff79dda82",
+          "asset": "13",
+          "info": {
+            "editorName": "store_btn_yes1",
+            "x": 536,
+            "y": 538
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "store"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "doctorstand"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "greybox"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "store_menu_1"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "item1"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "item2"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "item3"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "item4"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "item5"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "item6"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "store_btn_exit",
+      "sprite": "0"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "store_btn_next",
+      "sprite": "0"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "store_btn_no",
+      "sprite": "0"
+    },
+    "13": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "store_btn_yes",
+      "sprite": "0"
+    }
+  },
+  "prefab-table": {}
+}

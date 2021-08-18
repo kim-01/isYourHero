@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="global.sesoc.game.repositories.AccountMapper">
+	<insert id="createAccount" parameterType="Account">
+		INSERT INTO ACCOUNT(USERID,USERPWD,EMAIL,NICKNAME)
+		VALUES(#{userId},#{userPwd},#{email},#{nickname})
+	</insert>
+	<update id="createAuthKey" parameterType="Account">
+		UPDATE ACCOUNT SET AUTHCODE = #{authCode}
+		<if test="email != null">
+		WHERE EMAIL = #{email}
+		</if>
+		<if test="isConfirm == 'Y'">
+		WHERE USERID = #{userId}
+		</if>
+	</update>
+	<update id="userAuth" parameterType="Account">
+		UPDATE ACCOUNT SET ISCONFIRM = #{isConfirm} WHERE AUTHCODE = #{authCode}
+	</update>
+	<update id="updateAccount" parameterType="Account">
+		UPDATE ACCOUNT 
+		SET USERPWD = #{userPwd}
+		<if test="email != null">
+		  ,EMAIL = #{email}
+    	 </if>
+		WHERE USERID = #{userId}
+	</update>
+	<delete id="deleteAccount" parameterType="Account">
+		DELETE FROM ACCOUNT WHERE USERID = #{userId} AND USERPWD = #{userPwd}
+	</delete>
+	<select id="idCheck" parameterType="Account" resultType="Account">
+		SELECT USERID,USERPWD,EMAIL,AUTHCODE,NICKNAME,ISCONFIRM
+		FROM ACCOUNT
+		<if test="email != null">
+		WHERE EMAIL = #{email}
+		</if>
+		<if test="nickname != null">
+		WHERE NICKNAME = #{nickname}
+		</if>
+		<if test="userId != null">
+		WHERE USERID = #{userId}
+		</if>
+		<if test="userPwd != null">
+		AND
+		USERPWD = #{userPwd}
+		</if>
+		<if test="authCode != null">
+		AND AUTHCODE = #{authCode}
+		</if>	
+	</select>
+</mapper>

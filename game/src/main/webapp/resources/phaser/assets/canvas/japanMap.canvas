@@ -1,0 +1,236 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": true,
+    "stepWidth": 89,
+    "stepHeight": 180,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "1643a3dd-77bc-47b1-a002-b3cb84f6fce2",
+          "asset": "0",
+          "info": {
+            "editorName": "japanMap",
+            "x": -10,
+            "y": -4,
+            "scale.x": 0.3995814599167393,
+            "scale.y": 0.4470399940172768
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "183a5a36-5347-4e48-bd76-606cc4e18702",
+          "asset": "1",
+          "info": {
+            "editorName": "kobeP",
+            "x": 324,
+            "y": 290,
+            "scale.x": 0.6629213050681291,
+            "scale.y": 0.5333333488923668
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "b9650ca7-64c7-4026-ae97-748ea3887cff",
+          "asset": "2",
+          "info": {
+            "editorName": "kyotoP",
+            "x": 358,
+            "y": 293,
+            "scale.x": 0.6516853287072253,
+            "scale.y": 0.5611110888693045
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "921e6a51-17a2-4cfa-8be7-407cf72750c5",
+          "asset": "3",
+          "info": {
+            "editorName": "okinawaP",
+            "x": 90,
+            "y": 423,
+            "scale.x": 0.6179774580942825,
+            "scale.y": 0.5166666609311523,
+            "renderable": false,
+            "fixedToCamera": true,
+            "body": {
+              "type": "ARCADE_CIRCLE",
+              "radius": 44.5
+            }
+          }
+        },
+        {
+          "type": "image",
+          "id": "6431151b-736a-4a3a-9f2f-2774a1e0534a",
+          "asset": "4",
+          "info": {
+            "editorName": "msg",
+            "y": 463.37686917294855,
+            "scale.x": 0.695,
+            "scale.y": 0.32087911607758396,
+            "alpha": 0.4,
+            "fixedToCamera": true
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "48aa28fd-6405-426b-aa77-820302edb031",
+          "asset": "5",
+          "info": {
+            "editorName": "sapporoP",
+            "x": 642,
+            "y": 24,
+            "scale.x": 0.6067416307034054,
+            "scale.y": 0.5222222256394555
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "d4cbd6c7-f36e-40ad-90b1-e98e22b0d5b5",
+          "asset": "6",
+          "info": {
+            "editorName": "tokyoP",
+            "x": 500,
+            "y": 317,
+            "scale.x": 0.5617977592884519,
+            "scale.y": 0.5055555387186829,
+            "animations": [{
+              "name": "jump",
+              "frameRate": 3,
+              "loop": true,
+              "autoPlay": true,
+              "frames": [
+                "0",
+                "1"
+              ]
+            }]
+          }
+        },
+        {
+          "type": "image",
+          "id": "c432186a-85bb-4edf-8da5-83b261a6204d",
+          "asset": "7",
+          "info": {
+            "editorName": "NoButton",
+            "x": 660,
+            "y": 550
+          }
+        },
+        {
+          "type": "image",
+          "id": "1349b46e-0f4b-4531-bae5-f7af04b213e2",
+          "asset": "8",
+          "info": {
+            "editorName": "YesButton",
+            "x": 534,
+            "y": 550,
+            "renderable": false
+          }
+        },
+        {
+          "type": "text",
+          "id": "9bfdc2e5-b1f8-49af-b812-bec4f771d81c",
+          "info": {
+            "editorName": "text",
+            "x": 60,
+            "y": 500,
+            "text": "This is a text"
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "japanMap"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kobeP",
+      "sprite": "0"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "kyotoP",
+      "sprite": "0"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "okinawaP",
+      "sprite": "0"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "msg"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "sapporoP",
+      "sprite": "0"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyoP",
+      "sprite": "0"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "NoButton"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "YesButton"
+    }
+  },
+  "prefab-table": {}
+}

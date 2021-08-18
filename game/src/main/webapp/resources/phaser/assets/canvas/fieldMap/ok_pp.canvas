@@ -1,0 +1,188 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "1ad8922b-0bbf-434d-acb1-21b02cf3defc",
+          "asset": "0",
+          "info": {"editorName": "grassmap"}
+        },
+        {
+          "type": "image",
+          "id": "2638bcc2-5000-41d9-afa9-1d5995d9bbb3",
+          "asset": "1",
+          "info": {
+            "editorName": "tree",
+            "x": 731,
+            "y": 113
+          }
+        },
+        {
+          "type": "image",
+          "id": "29dfa1ed-a375-4e41-adb6-53c653bebf6e",
+          "asset": "1",
+          "info": {
+            "editorName": "tree",
+            "x": 573,
+            "y": 117
+          }
+        },
+        {
+          "type": "image",
+          "id": "f59b10f5-9e48-4715-bce1-919e68585bd2",
+          "asset": "1",
+          "info": {
+            "editorName": "tree",
+            "x": 357,
+            "y": 116
+          }
+        },
+        {
+          "type": "image",
+          "id": "96118f40-4a7f-4b4a-986b-35f6968fbbdd",
+          "asset": "1",
+          "info": {
+            "editorName": "tree",
+            "x": 462,
+            "y": 116
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "47838514-a65a-4edd-bf23-97b34f723771",
+          "asset": "2",
+          "info": {
+            "editorName": "green",
+            "x": 690,
+            "y": 159
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "80cfc6b4-be08-445b-86b4-d156a8c435ea",
+          "asset": "3",
+          "info": {
+            "editorName": "purple",
+            "x": 624,
+            "y": 159
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "c5208632-2584-47dc-b396-5dba735955f0",
+          "asset": "4",
+          "info": {
+            "editorName": "red",
+            "x": 653,
+            "y": 159
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "656d8122-7fbc-43ae-b500-d9887cb75a39",
+          "asset": "5",
+          "info": {
+            "editorName": "buhidott",
+            "x": 610,
+            "y": 26
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "98c07600-90bd-453f-9df7-ff2aaaf3004f",
+          "asset": "6",
+          "info": {
+            "editorName": "blue1",
+            "x": 717,
+            "y": 159
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "grassmap"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tree3"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "green",
+      "sprite": "0"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "purple",
+      "sprite": "0"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "red",
+      "sprite": "0"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "buhidott",
+      "sprite": "0"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "blue",
+      "sprite": "0"
+    }
+  },
+  "prefab-table": {}
+}

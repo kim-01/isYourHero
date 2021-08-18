@@ -1,0 +1,306 @@
+{
+  "canvas-version": 2,
+  "settings": {
+    "className": "Level",
+    "sceneWidth": 800,
+    "sceneHeight": 600,
+    "generateOnSave": true,
+    "enableStepping": false,
+    "lang": "JAVA_SCRIPT",
+    "baseClass": "Phaser.State",
+    "backgroundColor": [
+      180,
+      180,
+      180
+    ],
+    "gridColor": [
+      200,
+      200,
+      200
+    ],
+    "showGrid": true,
+    "create_after": "\r\n\r\n"
+  },
+  "stateSettings": {
+    "scaleMode": "SHOW_ALL",
+    "pageAlignHorizontally": true,
+    "pageAlignVertically": true,
+    "stageBackgroundColor": [
+      255,
+      255,
+      255
+    ],
+    "autoLoad": true,
+    "preloadSpriteId": "",
+    "preloadSprite_direction": 0,
+    "load.pack": []
+  },
+  "world": {
+    "type": "group",
+    "id": "8a0fc0bc-e3be-4656-9585-f855ac8ba0bb",
+    "info": {
+      "editorName": "Level",
+      "setAll": [],
+      "children": [
+        {
+          "type": "image",
+          "id": "cf49f3dd-5fce-4197-9f55-e464f774c243",
+          "asset": "0",
+          "info": {
+            "editorName": "tokyoMap",
+            "y": -3,
+            "scale.x": 1.0054000065495068,
+            "scale.y": 0.8662857125865903
+          }
+        },
+        {
+          "type": "image",
+          "id": "1c13b299-c2bc-41a0-939f-7892aed9cdf6",
+          "asset": "1",
+          "info": {
+            "editorName": "popup",
+            "x": 189,
+            "y": 317,
+            "scale.x": 1.5400000817947042
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "405d2ae4-1c7e-4c65-8801-1faa0952a556",
+          "asset": "2",
+          "info": {
+            "editorName": "btn_yes",
+            "x": 487,
+            "y": 372,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "9ffce948-47e3-4977-be19-632c97ac033b",
+          "asset": "3",
+          "info": {
+            "editorName": "btn_no",
+            "x": 563,
+            "y": 372,
+            "scale.x": 0.5,
+            "scale.y": 0.5
+          }
+        },
+        {
+          "type": "image",
+          "id": "c0281158-df56-443a-b87c-c55e19dc3ec3",
+          "asset": "4",
+          "info": {
+            "editorName": "click_Asakusa",
+            "x": 594,
+            "y": 145,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "5406e4b3-c850-44c0-b53c-b322990c6279",
+          "asset": "5",
+          "info": {
+            "editorName": "click_Disneyland",
+            "x": 570,
+            "y": 288,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "2b0f82b5-841d-4283-b512-ef472dd14a06",
+          "asset": "6",
+          "info": {
+            "editorName": "click_Odaiba",
+            "x": 406,
+            "y": 450,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "bda5942d-9c94-4c42-836c-ea5ffce1ff79",
+          "asset": "7",
+          "info": {
+            "editorName": "click_Rainbow",
+            "x": 238,
+            "y": 464,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "image",
+          "id": "0058e1a4-9bb6-445b-89ae-f18d3f04e893",
+          "asset": "8",
+          "info": {
+            "editorName": "click_Tokyo_Tower",
+            "x": 260,
+            "y": 328,
+            "scale.x": 0.2,
+            "scale.y": 0.2
+          }
+        },
+        {
+          "type": "spritesheet",
+          "id": "3b1823b2-7118-484c-ae51-63badb426381",
+          "asset": "9",
+          "info": {
+            "editorName": "btn_store",
+            "x": 642,
+            "y": 436
+          }
+        },
+        {
+          "type": "image",
+          "id": "fb0d9e0e-23e5-47a3-85b9-853d3447d8cf",
+          "asset": "10",
+          "info": {
+            "editorName": "tokyo_asaksa",
+            "x": 566,
+            "y": 58,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "840fc230-bad9-4123-9201-027b5b6e6949",
+          "asset": "11",
+          "info": {
+            "editorName": "tokyo_disney",
+            "x": 544,
+            "y": 211,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "08ed7518-515f-42e0-96b0-3d5cc9880fd4",
+          "asset": "12",
+          "info": {
+            "editorName": "tokyo_odaiba",
+            "x": 377,
+            "y": 367,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "6624640e-7b9f-472b-834c-0730cfdf4c85",
+          "asset": "13",
+          "info": {
+            "editorName": "tokyo_rainbow",
+            "x": 214,
+            "y": 387,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        },
+        {
+          "type": "image",
+          "id": "a119b715-11bc-4988-871b-a2230ab3a8e2",
+          "asset": "14",
+          "info": {
+            "editorName": "tokyo_tower",
+            "x": 234,
+            "y": 245,
+            "scale.x": 0.1,
+            "scale.y": 0.1
+          }
+        }
+      ]
+    }
+  },
+  "type": "STATE",
+  "asset-table": {
+    "0": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyoMap"
+    },
+    "1": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "popup"
+    },
+    "2": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_yes",
+      "sprite": "0"
+    },
+    "3": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_no",
+      "sprite": "0"
+    },
+    "4": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_Asakusa"
+    },
+    "5": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_Disneyland"
+    },
+    "6": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_Odaiba"
+    },
+    "7": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_Rainbow"
+    },
+    "8": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "click_Tokyo Tower"
+    },
+    "9": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "btn_store",
+      "sprite": "0"
+    },
+    "10": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyo_asaksa"
+    },
+    "11": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyo_disney"
+    },
+    "12": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyo_odaiba"
+    },
+    "13": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyo_rainbow"
+    },
+    "14": {
+      "file": "WebContent/assets/pack.json",
+      "section": "images",
+      "asset": "tokyo_tower"
+    }
+  },
+  "prefab-table": {}
+}
